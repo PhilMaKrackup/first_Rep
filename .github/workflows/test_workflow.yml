@@ -13,5 +13,3 @@ jobs:
 
       - name: Run Hello GitHub Script
         run: python hello_github.py
-
-        
